@@ -1,0 +1,6 @@
+﻿  Level.cpp
+D:\AtoZ\3D-Buzz\c++\102\Week2\Project2-1\Level.cpp(86,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\AtoZ\3D-Buzz\c++\102\Week2\Project2-1\Level.cpp(86,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Main.cpp
+  Generating Code...
+  Project3.vcxproj -> D:\AtoZ\3D-Buzz\c++\102\Week4\Project3\Debug\Project3.exe
